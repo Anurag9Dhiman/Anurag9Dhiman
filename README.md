@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag9Dhiman
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Artificial intelligence
+- 🌱 I’m currently learning Artificial intelligence, Large language Models.
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 contact me via anuragdhiman666@gmail.com
 
